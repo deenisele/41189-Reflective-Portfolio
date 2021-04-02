@@ -33,16 +33,26 @@ The theory of "coplex adaptive systems" provided to be useful. Complex Adaptive 
 ## Week 2
 
 ### What have I learnt this week?
-
+Week two i learnt about models, and their imporatance and use in the real world. Such uses include the 7 uses of models (reason, explain, design, communicate, act and predict). Different approaches to models were also taught and how they are able to assist us in understanding and communicate complex concepts (simplification) to ourselves and other arounds us. Different theories of modelling was also learnt however will dicussed in the next question
 ### What do I 'now know' that I did not before?
+Before participating in this lesson, i did not now the different theorems.
+* Condorcet Jury Theorem: Theory that given a group of people indpendently choosing a correct outcome with probability 0 ≤ p ≤ 1 and the probability of the incorrect on being 1-p. i.e. Tells us why constructing multiple models will be more accurate
+*If p > 0.5 (more likely to be correct), adding more voters will increase the p that voters choose correctly as the p moves towards 1
+* If p < 0.5 (voters less likely to vote incorrectly than correctly), adding more voters decreases the p that majority voters choose correctly = more likely to get a correct decision with jury sized 1
+
+
+* Diversity Prediction Theory: Attempts to predict how accurate crowds will be act predicting. This requires crowd diversity (in views, variables, etc.) and individual accuracy
+** if the average individual error is low then there is no point of this cause individuals would be better off by themselves than a group
 
 ### What insights have I gained?
+Some insights gained during this lesson includes the  use of models and how they apply to the world. More specifically, how they are applied in depth and the contexts to which they need to be applied. 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
+Currently, my strengths and weaknesses remain fairly the same however i still find it difficult to understand some concepts, especially the theorems and how they apply to modelling. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+Challenges include paying attention in class. I have a very small attention span and find it difficult to grasp what the tutor is saying. Engaging in class and contacting my teammates has also been somewhat difficult
 ### What would I do better next time and with what anticipated results?
-
+Next time i would continute to try and focus in class whilst also ensuring that i understand all the concepts and being able to provide examples for all the materials learnt in class. I expect better results next lesson by being able to explain my lessons more in depth and without looking at my notes constantly. 
 ### What theory proved to be useful and why? What have I learnt from this?
-
+Overall, alot was useful. Particularly the use of models to make prediction and how the "condorcet Jury Theorem" and the "Diversity Prediction theory" linked to how models are used. 
