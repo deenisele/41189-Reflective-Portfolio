@@ -132,3 +132,88 @@ Better communication with my team and be more firm and direct.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 The theory that these models can predict certain outcomes using statistics and probability of a random variable. 
+
+
+
+## Week 6
+
+### What have I learnt this week?
+This week we discussed various theories and types of models, including the Markov Process/model, random walk and path dependence. This was based on how systems evolve 
+
+### What do I now know that I did not before?
+ The main takeaway from this lesson was based on the Markov models. These models are able to capture systems that can transition between a finite of states using various probabilities. They can only be in one state at a time can will eventually transition from one state to another. The transitions depend on the present state and not the history. An example that I found the most easiest to understand was the weather model. If it is raining currently then there are different probabilities for the system to transition into another state: raining, sunny, windy, etc. 
+With path dependence, it also applies at current situations where the preceding moments also depend on the current state. The outcome of probabilities depend on the sequence of the past outcomes and can also be sensitive to other conditions/parameters. Some forms of dependence depend on the past outcomes (PHAT) and other depend on the sequence of past outcomes. 
+Random walks models takes a number of equal successive steps that are all completely random.
+
+### What insights have I gained?
+Such insights I have gained is that there are several paths to take and are dependent on how such systems change and evolve over time, depending on the past/previous state. This can be applied historically (hierarchical structures in society) and also currently (e.g. weather) 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+The strengths for this week was that I was able to understand the concept of these models and how it could be applied to the real world. I however did find some difficulties in understanding the pre-work which were not fully mentioned in the class. 
+
+### What were the challenges that I encountered/observed and how well did I/my team handle them
+Some challenges this week was communication between my group. This was handled over time and we clearly stated what was expected of us. 
+
+### What would I do better next time and with that anticipated results?
+Next time, I would attend his class. It was extremely insightful however the questions I had could not be answered however over watching the tutorial recordings, some other students asked interesting questions which also reinforced by understanding
+
+### What theory proved to be useful and why? What have I learnt from this?
+The Markov model was the most useful in my opinion. It was able to capture the transition of systems between a finite number of states where it allowed us to look at these models in different situations and states to analyse and understand their behaviour. 
+
+
+
+
+## Week 7
+
+### What have I learnt this week?
+This week was about complexity and emergent behaviour. This included the three emergent behaviours: Peer effects and social changes, Coordination and culture, and social learning
+
+### What do I now know that I did not before?
+Peer effects and social changes can influence ones behaviour and how they make decisions. This is prominent in fashion, smoking, choice in phones, etc. This can be modelled through Schelling's Segregation Model,  Granovetter's Riot Model and the Standing Ovation Model
+Schelling's model concerns itself with how people have some sort of preference towards their group, which can lead to a from of segregation. I.e. Race in society. This also uses a Agent based model to analyse the behaviours of the agents to understand the outcome and come up with a reasoning
+Granovetter's Model shows collective behaviour. E.g. if a group of people riot they are demonstrating a collective behaviour and can influence others to behave the same
+Standing ovation model  illustrates a behaviour where in a situation of a performance, every member of the audience must decide to join the other standing individuals in their ovation, or if everyone else will remain seated
+As for Culture and coordination: There are several meanings to this concept which can be broadly justified. This is manily what environment an individual is in and how it "works" i.e. culture. Culture is consistent coordination. 
+Replicator dynamics are a form of social learning model that uses psychology and ecology. It analyses the probability of taking a certain action according to popularity and is done through observing others behaviour.
+
+### What insights have I gained?
+These models can be adjustable and are also able to stimulate contagion e.g. COVID. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+Strengths this week were not noted. Weaknesses however was that I was unable to understand the content without the prework. 
+
+### What were the challenges that I encountered/observed and how well did I/my team handle them
+This week was somewhat difficult. I was unable to properly understand the content without doing the prework. After the class I was able to conduct further studying by looking at the prework and what I learnt in class that day
+
+### What would I do better next time and with that anticipated results?
+Do the prework.
+
+### What theory proved to be useful and why? What have I learnt from this?
+Granovetters model provided most useful. With consideration of my assignment topic: COVID, this provided useful to which we were able to understand an individuals collective behaviour toward "not getting vaccinations'. 
+
+
+## Week 8
+
+### What have I learnt this week?
+This was a continuation of the previous week. This included new theories such as the Colonel Blotto Game, Cooperation (prisoner's dilemma and collective action problems, along with real life examples
+
+### What do I now know that I did not before?
+The entirety of this lesson was new, as to why everything in this lesson was a component that I now know but did not know before. 
+The Colonel Blotto game is a game that predicts the winners and losers based on the allocation of resources. Each front is won by the player that has the most resources and the overall game is won by the player who wins the most fronts (rounds). This can be applied to various situations as the behaviours within this game have been relevant to everyday applications such as political, social and other competitive situations (e.g. like war and front lines). This is so we can understand patterns in wins and also test the outcomes with different resource assignments. People with the least resources don’t necessarily guarantee a loss. It depends on strategy and how resources are allocated.
+Prisoners Dilemma also models a complex form of behaviour and outcomes: whether the players cooperate or defect with the consideration of a reward. This can be seen in price competition, technological adoption or political campaigns. The most desirable outcome is when all players coordinate to get the highest collaborate payoff/reward. 
+Collection Action problems are situations where all players would be better off cooperating but fail in doing so because of conflicting interests and objectives that ultimately discourage collaboration. 
+
+### What insights have I gained?
+Such insights gained are the real world applications of these models/theories. It  explains the behaviour of others with the consideration of a players motive and the reward system. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+My strengths for this week that I have observed it that I was able to understand this content easily and was able to reword this into my notes in a way that is more understandable. 
+
+### What were the challenges that I encountered/observed and how well did I/my team handle them
+The challenges for this week was based on the assignment, There was difficulty in choosing whether we should to the coding or non-coding option. This was resolved through identifying each others strengths and ensuring that each member of the group can do the work. 
+
+### What would I do better next time and with that anticipated results?
+Next time, I would cooperate more and use better communication.
+
+### What theory proved to be useful and why? What have I learnt from this?
+The theory that provided useful is the Prison Dilemma. It explained a common behaviour that is not only relevant in a prison setting but also in todays world. I would however like to understand more about this dilemma as I believe that sometimes the efficient outcome may not necessarily be TT. If all prisoners were to cooperate they might also suffer the repercussions e.g. if one snitches and gets released early, there might be consequences on the outside world where other criminals might have 'connections'….etc.
